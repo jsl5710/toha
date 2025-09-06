@@ -1,0 +1,20 @@
+section:
+  id: about
+  name: About
+  enable: true
+  weight: 1
+
+name: Jason Lucas
+headline: "PhD Candidate · Multilingual NLP & AI Safety"
+subtitle: "Penn State University"
+avatar: "/images/site/main-logo.png"
+bio: |
+  Final-year PhD focused on low-resource multilingual NLP, AI safety,
+  hallucination detection, and disinformation robustness.
+socialLinks:
+  - icon: "fa-brands fa-github"
+    url: "https://github.com/jsl5710"
+  - icon: "fa-brands fa-linkedin"
+    url: "https://www.linkedin.com/in/jsl5710"
+  - icon: "fa-solid fa-envelope"
+    url: "mailto:<you>@psu.edu"

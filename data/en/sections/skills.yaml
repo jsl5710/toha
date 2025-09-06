@@ -1,0 +1,16 @@
+section:
+  id: skills
+  name: Skills
+  enable: true
+  weight: 2
+
+items:
+  - title: "Multilingual NLP"
+    details: ["XLM-R, LaBSE, mDeBERTa", "Low-resource transfer", "Evaluation & QA"]
+    level: "Advanced"
+  - title: "Modeling & Training"
+    details: ["PEFT/LoRA/U-BitFit", "vLLM/DeepSpeed/FSDP", "Quantization & inference"]
+    level: "Advanced"
+  - title: "Data & Engineering"
+    details: ["Python, PyTorch, Hugging Face", "Pipelines, Slurm/Flux", "W&B tracking"]
+    level: "Advanced"

@@ -1,0 +1,16 @@
+section:
+  id: education
+  name: Education
+  enable: true
+  weight: 3
+
+degrees:
+  - degree: "Ph.D., Information Sciences & Technology"
+    institution:
+      name: "Penn State University"
+      logo: "/images/site/psu.png"   # placeholder; replace later
+      url: "https://www.psu.edu"     # optional
+    timeframe: "2019 – 2025 (expected)"
+    details:
+      - "Low-resource multilingual NLP, AI safety"
+      - "TA: IST 402 (Applied Generative AI)"

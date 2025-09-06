@@ -1,0 +1,19 @@
+section:
+  id: experiences
+  name: Experience
+  enable: true
+  weight: 4
+
+# Each item needs a `company` object and a non-empty `positions` list
+experiences:
+  - company:
+      name: "Lawrence Livermore National Laboratory"
+      logo: "/images/site/llnl.png"      # replace with real logo later
+      url: "https://www.llnl.gov"        # optional
+    positions:
+      - title: "Research Intern"         # sometimes called "designation" in themes
+        timeframe: "2024 – 2025"
+        location: "Livermore, CA (hybrid/remote)"   # optional
+        details:
+          - "RAG & safety evaluations; RL red/blue teaming"
+          - "Multimodal & multilingual evaluation pipelines"

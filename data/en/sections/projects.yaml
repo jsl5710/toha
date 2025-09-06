@@ -1,0 +1,12 @@
+section:
+  id: projects
+  name: Projects
+  enable: true
+  weight: 5
+
+items:
+  - name: "GREENLAND"
+    summary: "Multilingual disinformation detection dataset + evaluation suite."
+    repo: "https://github.com/jsl5710/greenland"
+  - name: "CoI-Agentic"
+    summary: "Agentic evaluation chains for consistency, translation, manipulation."
