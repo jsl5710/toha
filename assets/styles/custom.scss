@@ -1,0 +1,18 @@
+/* Education logos: size & shape similar to the demo */
+.education .edu-logo,
+#education .edu-logo,
+.sections-education .edu-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  border-radius: 10px;        /* use 50% for circular badges */
+  background: transparent;
+}
+
+/* If your theme markup doesn't have .edu-logo on <img>, target the container img */
+#education img, .education img {
+  max-width: 72px;
+  max-height: 72px;
+  object-fit: contain;
+  border-radius: 10px;
+}

@@ -3,7 +3,6 @@ section:
   name: Education
   enable: true
   weight: 2
-  template: sections/education.html
 
 degrees:
   - name: "Ph.D. in Informatics (Data Science & AI)"
@@ -11,21 +10,21 @@ degrees:
     institution:
       name: "The Pennsylvania State University"
       url: "https://ist.psu.edu/"
-      logo: "/images/site/psu.png"
+      logo: "/images/edu/psu.png"
     grade:
       scale: "GPA"
       achieved: 3.91
       outOf: 4
     extracurricularActivities:
       - "NSF NRT Fellow"
-      - "LinDiv Certificate (Linguistics & Language Science)"
+      - "LinDiv Certificate"
 
-  - name: "Master of Public Health (Epidemiology)"
+  - name: "M.P.H. (Epidemiology)"
     timeframe: "Jan 2018 – May 2021"
     institution:
       name: "St. George’s University"
       url: "https://www.sgu.edu/"
-      logo: "/images/site/sgu.png"
+      logo: "/images/edu/sgu.png"
     grade:
       scale: "GPA"
       achieved: 3.83
@@ -36,7 +35,7 @@ degrees:
     institution:
       name: "Boston University"
       url: "https://www.bu.edu/"
-      logo: "/images/site/bu.png"
+      logo: "/images/edu/bu.png"
     grade:
       scale: "GPA"
       achieved: 3.64
@@ -47,8 +46,4 @@ degrees:
     institution:
       name: "St. George’s University"
       url: "https://www.sgu.edu/"
-      logo: "/images/site/sgu.png"
-    grade:
-      scale: "GPA"
-      achieved: 3.64
-      outOf: 4
+      logo: "/images/edu/sgu.png"
