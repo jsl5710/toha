@@ -1,0 +1,10 @@
+name: "Jason Lucas"
+nickname: "Jason"
+image: "images/author.jpg"   # new valid author photo
+greeting: "Hi, I am"
+contactInfo:
+  email: "jsl5710@psu.edu"
+summary:
+  - PhD Candidate in AI/NLP
+  - Multilingual & safety evaluations
+  - Building practical AI systems

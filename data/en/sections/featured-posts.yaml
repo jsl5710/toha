@@ -1,0 +1,13 @@
+section:
+  name: Featured Posts
+  id: featured-posts
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  hideTitle: true
+
+# slugs of posts you’ll create below
+posts:
+  - quickstart
+  - update-v3-to-v4
+  - prepare-site

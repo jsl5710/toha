@@ -1,19 +1,51 @@
 section:
   id: experiences
-  name: Experience
+  name: Experiences
   enable: true
-  weight: 4
+  weight: 3
 
-# Each item needs a `company` object and a non-empty `positions` list
 experiences:
   - company:
-      name: "Lawrence Livermore National Laboratory"
-      logo: "/images/site/llnl.png"      # replace with real logo later
-      url: "https://www.llnl.gov"        # optional
+      name: "Pennsylvania State University"
+      url: "https://ist.psu.edu/"
+      location: "University Park, PA"
+      logo: "/images/site/psu.png"
+      overview: "Graduate research + teaching in ML/NLP and safe AI."
     positions:
-      - title: "Research Intern"         # sometimes called "designation" in themes
-        timeframe: "2024 – 2025"
-        location: "Livermore, CA (hybrid/remote)"   # optional
-        details:
-          - "RAG & safety evaluations; RL red/blue teaming"
-          - "Multimodal & multilingual evaluation pipelines"
+      - designation: "Graduate Assistant (Research & Teaching)"
+        start: "Aug 2021"
+        # end:       # omit for 'Present'
+        responsibilities:
+          - "Research on harmful content detection across 70+ languages."
+          - "Mentored 5+ interns; contributed to 6 top-tier publications."
+          - "Built pipelines with PyTorch, HuggingFace, AdapterHub; GCP/Azure."
+          - "TA: Database Systems, Application Development, Human-AI Robotics."
+
+  - company:
+      name: "St. George’s University"
+      url: "https://www.sgu.edu/"
+      location: "Grenada, WI"
+      logo: "/images/site/sgu.png"
+      overview: "Faculty & technical lead supporting medical education platforms."
+    positions:
+      - designation: "Instructor / Head of Division / Technical Lead"
+        start: "2011"
+        end: "2021"
+        responsibilities:
+          - "Led IT operations for 4,000+ medical students; 99% platform uptime."
+          - "Managed SimCapture/Examsoft; cross-term operations and training."
+          - "Taught across IT, Medicine, and Public Health."
+
+  - company:
+      name: "Government of Grenada"
+      url: "https://gov.gd/"
+      location: "Grenada, WI"
+      logo: "/images/site/govgd.png"
+      overview: "National teaching service."
+    positions:
+      - designation: "IT Instructor"
+        start: "2010"
+        end: "2011"
+        responsibilities:
+          - "Supervised IT classes for 500+ students."
+          - "Achieved 95% CSEC IT pass rate."

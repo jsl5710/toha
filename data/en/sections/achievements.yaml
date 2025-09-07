@@ -1,0 +1,17 @@
+section:
+  id: achievements
+  name: Achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+
+achievements:
+  - title: "Best Presenter"
+    image: "/images/site/main-logo.png"
+    summary: "Best presenter in the 2024 XYZ conference."
+  - title: "Champion"
+    image: "/images/site/main-logo.png"
+    summary: "Champion in inter-city cycling 2023."
+  - title: "Graduation"
+    image: "/images/site/main-logo.png"
+    summary: "B.Sc. in Information Technology."

@@ -2,15 +2,16 @@ section:
   id: skills
   name: Skills
   enable: true
-  weight: 2
+  weight: 5
 
-items:
-  - title: "Multilingual NLP"
-    details: ["XLM-R, LaBSE, mDeBERTa", "Low-resource transfer", "Evaluation & QA"]
-    level: "Advanced"
-  - title: "Modeling & Training"
-    details: ["PEFT/LoRA/U-BitFit", "vLLM/DeepSpeed/FSDP", "Quantization & inference"]
-    level: "Advanced"
-  - title: "Data & Engineering"
-    details: ["Python, PyTorch, Hugging Face", "Pipelines, Slurm/Flux", "W&B tracking"]
-    level: "Advanced"
+skills:
+  - name: "AI / ML"
+    details: ["NLP", "Deep Learning", "LLMs", "RAG", "Transfer Learning", "Prompt Engineering", "Reasoning", "Evaluation"]
+  - name: "Programming"
+    details: ["Python", "SQL", "PyTorch", "R", "LaTeX", "C++", "Java", "HTML/CSS", "PHP", "Shell Scripting", "TensorFlow"]
+  - name: "Data Science"
+    details: ["Data Wrangling", "Feature Engineering", "Visualization", "Web Scraping", "Predictive Analytics", "Statistical Analysis"]
+  - name: "Platforms / Tools"
+    details: ["HuggingFace", "VSCode", "Google Colab", "AdapterHub", "EpiInfo", "GeoDa", "SAS", "Oracle", "MSSQL", "GitHub", "GCP", "Azure"]
+  - name: "Transferable"
+    details: ["Scientific Writing", "Grant Writing", "Project Management", "Technical Training"]

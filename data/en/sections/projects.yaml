@@ -2,11 +2,21 @@ section:
   id: projects
   name: Projects
   enable: true
-  weight: 5
+  weight: 4
 
-items:
-  - name: "GREENLAND"
-    summary: "Multilingual disinformation detection dataset + evaluation suite."
-    repo: "https://github.com/jsl5710/greenland"
-  - name: "CoI-Agentic"
-    summary: "Agentic evaluation chains for consistency, translation, manipulation."
+projects:
+  - name: "BAbSANT: AI-Powered Speech Pathology Platform"
+    summary: "Multilingual GPT-4 + Whisper platform for speech pathology across 5+ languages; reduced assessment time by 60%."
+    tags: ["LLM", "Whisper", "Healthcare", "Multilingual"]
+  - name: "Intelligent Virtual Assistant for Customer Service"
+    summary: "Novel summarization approach for dialogue systems; boosted LLM quality by 70% via human studies."
+    tags: ["LLM", "Summarization", "Dialogue"]
+  - name: "Scientific Reasoning for Multilingual AI"
+    summary: "Mixture-of-agents framework to improve reasoning in LRMs/LLMs."
+    tags: ["Agents", "Reasoning", "Multilingual"]
+  - name: "OCEX (Online Clinical Evaluation Exercise)"
+    summary: "Led virtual clinical exam system for 3000+ students; integrated 5 platforms; improved processing by 40%."
+    tags: ["EdTech", "Systems", "Operations"]
+  - name: "B-Line SimLab Expansion"
+    summary: "Directed expansion serving 4K+ students annually; increased capacity by 250%."
+    tags: ["Leadership", "Infrastructure", "Scale"]
