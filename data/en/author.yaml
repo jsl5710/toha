@@ -1,6 +1,6 @@
 name: "Jason Lucas"
 nickname: "Jason"
-image: "images/author.jpg"   # new valid author photo
+image: "images/author.png"
 greeting: "Hi, I am"
 contactInfo:
   email: "jsl5710@psu.edu"
